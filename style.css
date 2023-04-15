@@ -1,0 +1,13 @@
+h1{color:orange;}
+.centered {
+    text-align: center;
+  }
+
+.jokes {
+    font-family: "Comic Sans MS", "Comic Sans", fantasy, cursive;
+}
+.proof {
+    font-family: "Times New Roman", sans-serif;
+    color:green;
+    text-align: right;
+}
